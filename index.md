@@ -2,7 +2,7 @@
 layout: default
 title: 👋 Get in Touch
 ---
-- **Email**[marcus@edgeandnode.com](mailto:marcus@edgeandnode.com)
+- **Email** [marcus@edgeandnode.com](mailto:marcus@edgeandnode.com)
 - **LinkedIn:** [linkedin.com/in/marcusrein](https://www.linkedin.com/in/marcusrein/)
 - **GitHub:** [github.com/marcusrein](https://github.com/marcusrein)
 - **Telegram:** [t.me/marcus/Marcus_Rein](https://t.me/Marcus_Rein)
