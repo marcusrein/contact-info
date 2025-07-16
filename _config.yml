@@ -1,0 +1,37 @@
+# Site settings
+title: "Contact Info"
+description: "Get in touch with me easily"
+baseurl: ""
+url: "https://marcusrein.github.io/contact-info"
+
+# GitHub Pages settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+# SEO and meta tags
+author: "Marcus Rein"
+lang: "en-US"
+
+# Customize the theme
+show_downloads: false
+google_analytics: # Add your GA tracking ID if you want analytics
+
+# Social links (optional)
+github_username: marcusrein
+linkedin_username: marcusrein
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Permalink structure
+permalink: pretty 
