@@ -2,6 +2,11 @@
 layout: default
 title: 👋 Get in Touch
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="DSCF2274.jpg" alt="Marcus Rein" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 3px solid #58a6ff;">
+</div>
+
 - **Email** [marcus@edgeandnode.com](mailto:marcus@edgeandnode.com)
 - **Telegram:** [t.me/marcus/Marcus_Rein](https://t.me/Marcus_Rein)
 - **GitHub:** [github.com/marcusrein](https://github.com/marcusrein)
